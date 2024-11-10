@@ -19,4 +19,4 @@
 
 “坐下。”梅尔先生说。
 
-[next](page95.md)
+[next](page95)

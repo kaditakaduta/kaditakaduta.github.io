@@ -19,4 +19,4 @@
 
 第五十章　梦 想 成 真
 
-[next](page632.md)
+[next](page632)

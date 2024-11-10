@@ -19,4 +19,4 @@
 
 “是排骨。”我说。
 
-[next](page75.md)
+[next](page75)

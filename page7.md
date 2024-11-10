@@ -19,4 +19,4 @@
 
 第四十九章　坠入迷雾
 
-[next](page8.md)
+[next](page8)

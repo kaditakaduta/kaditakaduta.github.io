@@ -19,4 +19,4 @@
 
 第九章　难忘的生日
 
-[next](page4.md)
+[next](page4)

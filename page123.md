@@ -19,4 +19,4 @@
 
 现在我全明白了。
 
-[next](page124.md)
+[next](page124)

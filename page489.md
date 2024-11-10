@@ -19,4 +19,4 @@
 
 “后来呢？”
 
-[next](page490.md)
+[next](page490)

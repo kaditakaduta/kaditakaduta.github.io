@@ -19,4 +19,4 @@
 
 他说：“是的。”
 
-[next](page704.md)
+[next](page704)

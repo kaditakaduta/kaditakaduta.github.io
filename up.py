@@ -8,7 +8,7 @@ for line in inputf:
     outputf.write(line)
     if linenum % 20 == 0:
         page += 1
-        outputf.write("\r\n[next](page" + str(page) + ".md)")
+        outputf.write("\r\n[next](page" + str(page) + ")")
         outputf.close()
         outputf = codecs.open("page" + str(page) + ".md", "w", encoding='utf-8')
         linenum = 0

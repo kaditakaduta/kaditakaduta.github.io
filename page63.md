@@ -19,4 +19,4 @@
 
 “是你吗，佩格蒂？”
 
-[next](page64.md)
+[next](page64)

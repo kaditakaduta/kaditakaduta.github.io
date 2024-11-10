@@ -19,4 +19,4 @@ CONTENTS?目录
 
 译　序
 
-[next](page3.md)
+[next](page3)

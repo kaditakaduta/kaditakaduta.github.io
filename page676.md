@@ -19,4 +19,4 @@
 
 “多迪！”
 
-[next](page677.md)
+[next](page677)

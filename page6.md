@@ -19,4 +19,4 @@
 
 第三十九章　威克菲尔和希普
 
-[next](page7.md)
+[next](page7)

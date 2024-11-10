@@ -19,4 +19,4 @@
 
 “什么话呢？”
 
-[next](page650.md)
+[next](page650)

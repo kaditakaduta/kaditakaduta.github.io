@@ -19,4 +19,4 @@
 
 “你要干什么？”
 
-[next](page669.md)
+[next](page669)

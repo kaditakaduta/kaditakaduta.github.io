@@ -19,4 +19,4 @@
 
 “跟佩格蒂？”
 
-[next](page71.md)
+[next](page71)

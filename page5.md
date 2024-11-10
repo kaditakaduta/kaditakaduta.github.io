@@ -19,4 +19,4 @@
 
 第二十九章　重访斯蒂福思家
 
-[next](page6.md)
+[next](page6)

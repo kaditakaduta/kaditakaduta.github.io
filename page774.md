@@ -19,4 +19,4 @@
 
 致著名作家
 
-[next](page775.md)
+[next](page775)

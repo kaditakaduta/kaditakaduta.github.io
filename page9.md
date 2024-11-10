@@ -19,4 +19,4 @@
 
 微信公众名称：iamtxt电子书
 
-[next](page10.md)
+[next](page10)

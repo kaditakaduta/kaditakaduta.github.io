@@ -19,4 +19,4 @@
 
 星期五，于坎特伯雷
 
-[next](page695.md)
+[next](page695)
