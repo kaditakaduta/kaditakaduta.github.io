@@ -1,5 +1,4 @@
-kaditakaduta.github.io
 
-Welcome!
+# kaditakaduta.github.io
 
 [next](page1.md)
